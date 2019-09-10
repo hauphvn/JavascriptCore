@@ -41,7 +41,7 @@ function countOccurrences(arr) {
         if (!obj.hasOwnProperty(b)) {
             Object.defineProperty(obj,b,{value: 1, writable: true});
         } else {
-            numCur = obj[b] + 1;
+            numCur = obj[b]  + 1;
             obj[b] = numCur;
         }
         return b;
