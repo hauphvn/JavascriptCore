@@ -81,4 +81,4 @@ var wishlist = [
     { title: "Gold fidgit spinner", price: 2000 },
     { title: "A second Tesla Model S", price: 90000 }
 ];
-shoppingSpree(wishlist);// 227005
+shoppingSpree(wishlist);// 227005f
