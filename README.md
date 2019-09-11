@@ -13,5 +13,13 @@ To more detail understanding, let's see on Callback.js
 'New' keyword
 --
 If you create a object by 'new' keyword then you can change its property flexibly,
-and code briefly.  
+and code briefly. 
+It is also called Construction Function 
+
+Prototypes - Only JS
+--
+A new object is created by Constructor function will have a prototype.  
+Inside that prototype is also a .constructor property.  
+Prototype object is shared among all the objects created using 'new'.  
+Using prototype to create a method, a property will save memory, because that is created pointer to a memory together.  
 
