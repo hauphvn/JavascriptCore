@@ -10,3 +10,8 @@ I will pass sleep function into eaten function as parameter.
 So that is called Callback.  
 To more detail understanding, let's see on Callback.js  
 
+'New' keyword
+--
+If you create a object by 'new' keyword then you can change its property flexibly,
+and code briefly.  
+
